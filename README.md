@@ -156,5 +156,7 @@ The API has three user roles with different access levels:
 2. **admin** - Can view all loan details including `totalLoan`
 3. **superAdmin** - Has all admin privileges plus the ability to delete loans
 
+## Sample API Test
 
+![API Test with cURL](https://github.com/rhunor/BuySimply_Practical/blob/main/loantestCURL.png)
 
